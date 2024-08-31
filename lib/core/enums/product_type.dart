@@ -1,0 +1,1 @@
+enum ProductType { FAVORITE, CART, REORDER, ORDER, HOME }

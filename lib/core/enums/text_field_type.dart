@@ -1,0 +1,1 @@
+enum TypeOfTextField { PASSWORD, NORMAL }

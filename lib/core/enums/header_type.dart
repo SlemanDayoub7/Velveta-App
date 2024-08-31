@@ -1,0 +1,1 @@
+enum TypeOfHeader { ONE, TWO }

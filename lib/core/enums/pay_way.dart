@@ -1,0 +1,1 @@
+enum PayWay { CASH, CARD }

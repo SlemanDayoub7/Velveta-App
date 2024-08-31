@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040153914858",
+    "project_id": "ecommerce-aae3f",
+    "storage_bucket": "ecommerce-aae3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040153914858:android:12e041af3e9fbcf3ced693",
+        "android_client_info": {
+          "package_name": "com.example.velveta_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEdgkNdGtBYVU3ohHxEW3RoYDWyfPy5rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
